@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/Account.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/AccountDetailsPage.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/WithdrawalMenu.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/delete.png</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/Checking.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/InvalidAmountException.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/Savings.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/MainMenu.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/AddAccountMenu.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/BofFilter.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/open.png</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/Customer.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/save.png</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/DepositMenu.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/Bank.java</file>
+            <file>file:/C:/Users/Razvan/Desktop/JavaBankApp/BankApp/src/bankapp/InsufficientFundsException.java</file>
+        </group>
+    </open-files>
+</project-private>
